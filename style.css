@@ -13,7 +13,7 @@ main{
     
     width: 88%;
     background-color: #93ed0d;
-    padding: 50px 75px;
+    padding: 50px 50px 50px 75px;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
     gap: 2rem;
